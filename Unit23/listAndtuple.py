@@ -2,7 +2,7 @@
 a = ((1,2), (3,4))
 print('tuple in tuple:', a)
 
-#list in tuple
+#list in tupleㅎ
 b = ([1,2], [3,4])
 print('\nlist in tuple:', b)
 #안쪽에 있는 리스트의 원소만 변경 가능
